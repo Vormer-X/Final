@@ -100,13 +100,13 @@ body {
 .service-card__link { color: var(--primary); font-weight: 600; display: inline-flex; align-items: center; gap: 6px; transition: gap 0.2s; }
 .service-card:hover .service-card__link { gap: 12px; }
 
-.bg-1 { background-image: url('Фото/Услуги/Констр.jpg'); }
-.bg-2 { background-image: url('Фото/Услуги/землРаб.jpg'); }
-.bg-3 { background-image: url('Фото/Услуги/Сваи.jpg'); }
-.bg-4 { background-image: url('Фото/Услуги/ЖелезоБетон.jpg'); }
-.bg-5 { background-image: url('Фото/Услуги/Кирпич.jpg'); }
-.bg-6 { background-image: url('Фото/Услуги/Кровля.jpg'); }
-.bg-7 { background-image: url('Фото/Услуги/Системы.jpg'); }
+.bg-1 { background-image: url('Констр.jpg'); }
+.bg-2 { background-image: url('землРаб.jpg'); }
+.bg-3 { background-image: url('Сваи.jpg'); }
+.bg-4 { background-image: url('ЖелезоБетон.jpg'); }
+.bg-5 { background-image: url('Кирпич.jpg'); }
+.bg-6 { background-image: url('Кровля.jpg'); }
+.bg-7 { background-image: url('Системы.jpg'); }
 
 /* О нас */
 .about-wrapper { display: flex; flex-wrap: wrap; gap: 50px; align-items: center; }
